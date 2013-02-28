@@ -1,0 +1,135 @@
+/*footer*/
+/* footer starts here */
+#footer [class*="span"]:first-child {
+    margin: 0 auto;
+}
+
+#footer {
+	background:#0C0C0C;
+}
+#footer li {list-style-type: none; }
+#footer #footer-top .container ul {
+	margin-left: 0px;
+}
+#footer #footer-top .container > ul { 
+	width: 300px;
+}
+#footer-top .widget{
+    border-bottom:1px dotted #454545;
+	padding-bottom: 15px;
+    padding-top: 10px;
+    width: 100%;    
+}
+
+#footer-top .widget:last-child{
+	border-bottom:0px;
+}	
+
+#footer-top .widget-title {	
+
+    font-size:34px;
+    font-weight:normal;
+    color:#A1A1A1;
+    margin-bottom:22px;
+    line-height:36px;
+}
+
+#footer-top .widget ul li { 
+	padding: 3px 15px 3px 0px;
+}
+
+#footer-top .widget ul li a,
+#footer-top .widget ul li{
+
+    font-size:14px;
+    color:#797979;
+    float:left;
+    margin-right:10px;
+    line-height:20px;
+}
+
+#subscription{
+
+}
+#footer .help-block { 
+	clear: both;
+}
+#subscription p{
+    color:#A1A1A1;
+    font-size:15px;
+    margin-bottom:20px;
+    line-height:20px;
+}
+#footer .subscription-form { 
+	margin-bottom: 0px;
+}
+.subscription-form input#email{
+    background:#E1E1E1;
+    padding: 15px 10px;
+    width:295px;
+    font-size:14px;
+    border:none;
+	border-radius: 0px;
+    color:#464646;	
+	float: left;
+}
+
+.subscription-form input.subscription-submit{
+    background: #333;
+    padding: 17px 25px;
+    margin-bottom: 10px;
+    font-size: 14px;
+    border: none;
+    color: #fff;
+}
+
+.footer-right{
+	background: #e8e8e8;   
+}
+.footer-right ul{ 
+	padding-left: 25px;
+}
+.footer-right ul li h3{
+    font-size:34px;
+    color:#333333;
+    font-weight:normal;
+    margin-bottom:20px;
+}
+
+#footer-bottom {
+	background:url(../images/footer-pattern.gif) repeat;
+}
+
+#b-footer-bg {
+    background:#151513;
+    padding:10px 0px;
+}
+#footer-bottom ul { 
+	margin: 0px;
+}
+#footer-bottom nav ul li a {
+	color: #A1A1A1;
+    display: inline-block;
+    font-size: 15px;
+    padding-top: 5px;
+}
+#footer-bottom nav ul li:first-child {
+	margin-left:0px;
+}
+#footer-bottom nav ul li { 
+	display: inline;
+	padding: 3px 15px 3px 0px;
+}
+
+#site-description{
+    color:#A1A1A1;
+    margin-top:15px;
+	padding-top: 10px;
+}
+
+.footer-links a img{
+	margin-left: 10px;
+}
+
+
+/* footer ends here */
